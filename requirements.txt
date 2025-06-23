@@ -1,0 +1,21 @@
+numpy==1.24.3
+pandas==2.0.2
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.15.0
+scikit-learn==1.3.0
+streamlit==1.24.0
+xgboost==1.7.6  # GPU support if CUDA is available
+lightgbm==4.0.0  # For GPU support, see README or use conda install
+
+# Optional: Uncomment if you use deep learning frameworks
+# tensorflow>=2.0  # Uses GPU if available
+# torch>=2.0  # For GPU, see README for correct install command
+# torchvision
+# torchaudio
+
+# NOTE:
+# - For GPU acceleration, you must have a compatible NVIDIA GPU, CUDA drivers, and CUDA toolkit installed.
+# - For LightGBM GPU support, install via conda: conda install -c conda-forge lightgbm
+# - For PyTorch, see README for the correct pip command for your CUDA version.
+# - See README for more details on GPU setup.
