@@ -1,3 +1,5 @@
+[![Try the Interactive EV Sales Dashboard!](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen?logo=streamlit)](https://kedarnath-bhakta-ev-market-analysis-aosu3srtf52xaaycglcn3n.streamlit.app)
+
 Electric Vehicle Sales by State in India
 
 🚗 Project Overview
